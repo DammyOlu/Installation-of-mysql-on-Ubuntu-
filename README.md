@@ -7,7 +7,7 @@ Instullation of Mysql on Ubuntu Serve
 
 These are the steps i took to install Ubuntu on my Linux Server via the terminal
 
- # I loaded MySql download page and clicked through till i got to the just start my download which i right clicked on to extract the link
+ ## I loaded MySql download page and clicked through till i got to the just start my download which i right clicked on to extract the link
  # I had to ascertain what directory i was in by using
     pwd (i was in my home directory). 
 #I changed my directory into the tmp directory by running 
